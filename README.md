@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there! I'm Maksim
 
-<!--
-**maksimfisenko/maksimfisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Go-developer`**
 
-Here are some ideas to get you started:
+🎓 Graduated from *ITMO University* and now actively looking for a `Trainee / Junior Go Developer` position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about backend development, especially in **Go**
+
+### 🛠️ Tech Stack
+
+- **Languages**: Go, Java
+- **Tools**: Git, Docker, Kafka, Postman
+- **Databases**: PostgreSQL, MySQL
+- **Other**: Linux CLI
+
+### 📬 Contact Me
+- Email: fisenkomaksim.id@gmail.com
+- Telegram: [@maximfisenko](https://t.me/maksimfisenko)
