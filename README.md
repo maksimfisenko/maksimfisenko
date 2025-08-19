@@ -8,10 +8,11 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Go, Java
-- **Tools**: Git, Docker, Kafka, Postman
-- **Databases**: PostgreSQL, MySQL
-- **Other**: Linux CLI
+- **Languages**: Go (REST, gRPC), Java (Spring), Python
+- **Databases**: PostgreSQL, MySQL, Microsoft SQL Server, SQLite
+- **Messaging/Streaming**: Kafka
+- **Tools & Platforms**: Docker, Docker Compose, Git, GitHub, GitLab
+- **Other**: Linux (primary development environment, CLI)
 
 ### :rocket: Featured Projects
 
