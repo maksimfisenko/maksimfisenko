@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Maksim
 
-**`Go-developer`**
+**`Intern / Junior Go-developer`**
 
-🎓 Graduated from *ITMO University* and now actively looking for a `Trainee / Junior Go Developer` position
+🎓 Graduated from *ITMO University*
 
 💻 Passionate about backend development, especially in **Go**
 
